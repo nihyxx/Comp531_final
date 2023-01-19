@@ -1,0 +1,8 @@
+.profile{
+    height: 100%;
+    width: 100%;
+    background-color: lightsteelblue;
+    background-size: cover;
+    position: absolute;
+    overflow-x: hidden;
+}
